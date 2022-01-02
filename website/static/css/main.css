@@ -1,0 +1,7 @@
+.logo-mes-opinions {
+  max-height: 2.2rem !important;
+}
+
+.content-wrapper {
+  min-height: calc(100vh - 18.5rem);
+}
