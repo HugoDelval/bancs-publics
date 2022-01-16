@@ -1,3 +1,7 @@
+.navbar {
+    box-shadow: 0 .5em 1em -.125em rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .02);
+}
+
 .logo-mes-opinions {
   max-height: 2.2rem !important;
 }
@@ -5,3 +9,117 @@
 .content-wrapper {
   min-height: calc(100vh - 18.5rem);
 }
+
+img.logo-menu {
+  max-height: 50px;
+}
+
+.content-wrapper a:not(.button) {
+  text-decoration: underline;
+}
+
+.button {
+  border-radius: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    margin-right: 1rem; 
+    margin-left: 1rem; 
+  }
+}
+
+.visuels .image {
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+
+/* Cards */
+.card {
+  border-radius: 0;
+}
+
+.actu-card {
+  margin: 1rem 0;
+}
+
+.actu-card > a {
+  display: flex;
+  color: inherit;
+  text-decoration: inherit !important;
+}
+
+.actu-card button {
+  margin-top: 10px;
+  width: 200px;
+}
+
+.actu-card:hover {
+  box-shadow: 0 .5em 2em -.125em rgba(10, 10, 10, .15), 0 0 0 2px rgba(10, 10, 10, .02);
+}
+
+.actu-image {
+  display: flex;
+}
+
+.actu-image img {
+  max-height: 300px;
+  max-width: 400px;
+  width: auto;
+  border: solid 1px lightgrey;
+  align-self: center;
+}
+
+.actu-content {
+  padding: 20px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 1024px) {
+  .actu-image img {
+    max-width: 150px;
+  }
+  .actu-content {
+    padding: 10px;
+  }
+}
+/* end Cards */
+
+/* Article */
+.article .content {
+  text-align: justify;
+}
+.article img {
+  width: 100%;
+  max-width: 1200px;
+}
+.share-buttons {
+  display: flex;
+  align-items: center;
+}
+.share-buttons span {
+  margin-right: 1rem;
+}
+.share-buttons a {
+  margin-right: 0.5rem;
+}
+.share-buttons a.facebook i {
+  color: #4267B2;
+}
+.share-buttons a.messenger i {
+  color: #8842ff;
+}
+.share-buttons a.twitter i {
+  color: #1d9bf0;
+}
+.share-buttons a.whatsapp i {
+  color: #009688;
+}
+.share-buttons a.telegram i {
+  color: #32afed;
+}
+/* end Article */
