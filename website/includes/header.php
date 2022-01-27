@@ -45,23 +45,23 @@
 
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a class="navbar-item" href="/qui-sommes-nous/">
+        <a class="navbar-item <?= str_contains($_SERVER['REQUEST_URI'], 'qui-sommes-nous') ? 'is-menu-active' : '' ?>" href="/qui-sommes-nous/">
           Qui sommes-nous ?
         </a>
 
-        <a class="navbar-item" href="/actualites/">
+        <a class="navbar-item <?= str_contains($_SERVER['REQUEST_URI'], 'actualites') ? 'is-menu-active' : '' ?>" href="/actualites/">
           Actualités
         </a>
 
-        <a class="navbar-item" href="http://lodelo.art/bancs-publics/" target="_blank" rel="noopener">
-          Les parrainages
+        <a class="navbar-item <?= str_contains($_SERVER['REQUEST_URI'], 'parrainages') ? 'is-menu-active' : '' ?>" href="/parrainages/">
+          Parrainages
         </a>
 
-        <a class="navbar-item" href="/ressources/">
+        <a class="navbar-item <?= str_contains($_SERVER['REQUEST_URI'], 'ressources') ? 'is-menu-active' : '' ?>" href="/ressources/">
           Ressources
         </a>
 
-        <div class="navbar-item has-dropdown is-hoverable">
+        <div class="navbar-item has-dropdown is-hoverable <?= str_contains($_SERVER['REQUEST_URI'], 'adherer') ? 'is-menu-active' : '' ?>">
           <a class="navbar-link">
             Nous soutenir
           </a>

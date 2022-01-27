@@ -1,5 +1,6 @@
-.navbar {
-    box-shadow: 0 .5em 1em -.125em rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .02);
+:root {
+  --red: #F1471C;
+  --green: #4CBD38;
 }
 
 .logo-mes-opinions {
@@ -10,9 +11,19 @@
   min-height: calc(100vh - 18.5rem);
 }
 
+/* Menu */
 img.logo-menu {
   max-height: 50px;
 }
+
+.navbar-item.is-menu-active {
+  background-color: #f0f0f0 !important;
+}
+
+.navbar {
+    box-shadow: 0 .5em 1em -.125em rgba(10, 10, 10, .1), 0 0 0 1px rgba(10, 10, 10, .02);
+}
+/* Fin menu */
 
 .content-wrapper a:not(.button) {
   text-decoration: underline;
@@ -34,6 +45,15 @@ img.logo-menu {
   max-width: 500px;
   margin: 20px auto;
 }
+
+/* Hero */
+.hero.is-green {
+  background-color: var(--green);
+}
+.hero .title, .hero .subtitle {
+  color: #2a2a2a; !important;
+}
+/* End Hero */
 
 
 /* Cards */
@@ -95,7 +115,7 @@ img.logo-menu {
 }
 .article img {
   width: 100%;
-  max-width: 1200px;
+  max-width: 800px;
 }
 .share-buttons {
   display: flex;

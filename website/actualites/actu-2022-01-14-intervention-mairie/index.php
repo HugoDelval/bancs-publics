@@ -5,10 +5,6 @@ require_once '../functions.php';
 ?>
 
 <div class="container my-5 article">
-  <div class="has-text-centered">
-    <img src="<?= $metadata['image'] ?>" alt="">
-  </div>
-
   <h1 class="title is-2 mt-4"><?= $metadata['titre'] ?></h1>
 
   <p class="date has-text-grey-light"><i class="fa fa-calendar-alt mr-2"></i><?= $metadata['date'] ?></p>
@@ -48,6 +44,10 @@ require_once '../functions.php';
       N'hésitez pas également à consulter les <a href="/ressources">ressources mises à disposition</a> sur le site.
     </p>
   </section>
+
+  <div class="has-text-centered mt-6">
+    <img src="<?= $metadata['image'] ?>" alt="">
+  </div>
 </div>
 
 <?php include '../../includes/footer.php'; ?>
