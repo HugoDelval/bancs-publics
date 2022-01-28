@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="/static/css/bulma.min.css">
     <link rel="stylesheet" href="/static/css/main.css">
     <link rel="stylesheet" href="/static/css/fontawesome/all.min.css">
+    <link rel="stylesheet" href="/static/splide/css/splide.min.css">
   </head>
   <body>
 
@@ -61,24 +62,9 @@
           Ressources
         </a>
 
-        <div class="navbar-item has-dropdown is-hoverable <?= str_contains($_SERVER['REQUEST_URI'], 'adherer') ? 'is-menu-active' : '' ?>">
-          <a class="navbar-link">
-            Nous soutenir
-          </a>
-
-          <div class="navbar-dropdown">
-            <a href="https://www.mesopinions.com/petition/nature-environnement/projet-parking-souterrain-place-kiosque-sete/161546" title="Signer la pétition sur mesopinions.com" class="navbar-item" target="_blank" rel="noopener">
-              Signer la pétition
-            </a>
-            <a href="https://www.helloasso.com/associations/association-bancs-publics/formulaires/1" class="navbar-item" target="_blank" rel="noopener">
-              Appel aux dons
-            </a>
-            <a href="/adherer/" class="navbar-item">
-              Adhérer au collectif
-            </a>
-          </div>
-        </div>
-
+        <a class="navbar-item <?= str_contains($_SERVER['REQUEST_URI'], 'nous-soutenir') ? 'is-menu-active' : '' ?>" href="/nous-soutenir/">
+          Nous soutenir
+        </a>
       </div>
 
       <div class="navbar-end">
@@ -94,3 +80,8 @@
   <!-- End menu -->
 
   <div class="content-wrapper">
+    <?php if ($_SERVER['REQUEST_URI'] !== '/') : ?>
+    <div class="container mt-5 article">
+      <a href="/" class="button"><span class="is-size-5 mr-2 is-align-self-flex-end is-flex">&laquo;</span> Revenir à l'accueil</a>
+    </div>
+    <?php endif; ?>

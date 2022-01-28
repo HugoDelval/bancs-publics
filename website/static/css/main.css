@@ -7,6 +7,10 @@
   max-height: 2.2rem !important;
 }
 
+.content {
+  text-align: justify;
+}
+
 .content-wrapper {
   min-height: calc(100vh - 18.5rem);
 }
@@ -42,7 +46,7 @@ img.logo-menu {
 
 .visuels .image {
   width: 100%;
-  max-width: 500px;
+  max-width: 700px;
   margin: 20px auto;
 }
 
@@ -106,6 +110,9 @@ img.logo-menu {
   .actu-content {
     padding: 10px;
   }
+  .actu-card button {
+    width: auto;
+  }
 }
 /* end Cards */
 
@@ -143,3 +150,10 @@ img.logo-menu {
   color: #32afed;
 }
 /* end Article */
+
+/* sliders */
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
+/* end sliders */

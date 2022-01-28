@@ -26,27 +26,21 @@ require_once '../functions.php';
 
   <section class="content my-4">
     <p>
-      Ce matin, vendredi 14 janvier, à 8h30, et au lendemain d'une première intervention, nouvelle tentative de l'entreprise SOTRA NASA, elle-même mandatée par ENEDIS, elle-même mandatée par la mairie, pour effectuer des mesures, cette fois-ci rue du 11 novembre 1918.
+      Des engagements forts et réfléchis pour ces Sétoises, ces Sétois, ces Artistes, ces comédiennes, ces acteurs, ces vacanciers, ces Sportifs, ces Musiciens(es), ces Enfants, ces Scientifiques etc....ont souhaité parrainer et marrainer des arbres de la place du kiosque. Marrainer et Parrainer cela veut dire s'en occuper, les sauvegarder de la destruction, leur déclarer leur amour ! Tous les marraines et les parrains sont sur la <a href="/parrainages/">carte des parrainages</a>.
     </p>
     <p>
-      Un personnel des services techniques de la mairie présent sur place annonce pouvoir nous fournir un arrêté municipal pour ces travaux, qui ne concernent d'après lui pas que la place, mais donc la place quand-même. Par conséquent, nous occupons.
-    </p>
-    <hr>
-    <p>
-      Si vous souhaitez nous soutenir, vous pouvez :
-      <ul>
-        <li>Signer la pétition : <a href="https://www.mesopinions.com/petition/nature-environnement/projet-parking-souterrain-place-kiosque-sete/161546">https://www.mesopinions.com/petition/nature-environnement/projet-parking-souterrain-place-kiosque-sete/161546</a></li>
-        <li>Donner à au collectif : <a href="https://www.helloasso.com/associations/association-bancs-publics/formulaires/1">https://www.helloasso.com/associations/association-bancs-publics/formulaires/1</a></li>
-        <li>Adhérer au collectif et rejoindre notre lutte : <a href="/nous-soutenir/#adherer">Comment adhérer ?</a></li>
-      </ul>
-    </p>
-    <p>
-      N'hésitez pas également à consulter les <a href="/ressources">ressources mises à disposition</a> sur le site.
+      Voici le lien vers la <b>carte interactive</b> des marraines et parrains des 76 tilleuls argentés de la place : 
+      <a href="http://lodelo.art/bancs-publics/">http://lodelo.art/bancs-publics/</a>
     </p>
   </section>
 
   <div class="has-text-centered mt-6">
-    <img src="<?= $metadata['image'] ?>" alt="">
+    <img src="/static/images/photos/articles/parrainage 8 1.jpg" alt="">
+    <img src="/static/images/photos/articles/parrainage 8 2.jpg" alt="" class="mt-4">
+    <img src="/static/images/photos/articles/parrainage 8 3.jpg" alt="" class="mt-4">
+    <img src="/static/images/photos/articles/parrainage 8 4.jpg" alt="" class="mt-4">
+    <img src="/static/images/photos/articles/parrainage 8 5.jpg" alt="" class="mt-4">
+    <img src="/static/images/photos/articles/parrainage 8 6.jpg" alt="" class="mt-4">
   </div>
 </div>
 

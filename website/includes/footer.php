@@ -12,7 +12,9 @@
         </a>
       </p>
       <p>
-        <strong>Collectif Bancs Publics</strong> tous droits réservés
+        <strong>Collectif Bancs Publics, Place Aristide Briand, Sète</strong>
+        <br>
+        Tous droits réservés
         <br>
         Code source disponible sur <a href="https://github.com/HugoDelval/bancs-publics" title="GitHub Bancs Publics"><i class="fab fa-github"></i> GitHub</a>
       </p>

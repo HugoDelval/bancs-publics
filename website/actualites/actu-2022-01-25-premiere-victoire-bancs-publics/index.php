@@ -26,22 +26,23 @@ require_once '../functions.php';
 
   <section class="content my-4">
     <p>
-      Ce matin, vendredi 14 janvier, à 8h30, et au lendemain d'une première intervention, nouvelle tentative de l'entreprise SOTRA NASA, elle-même mandatée par ENEDIS, elle-même mandatée par la mairie, pour effectuer des mesures, cette fois-ci rue du 11 novembre 1918.
+      <b>Notre action a empêché le démarrage des travaux. C'est une première victoire !</b>
+      Les Sétois et Sétoises peuvent le constater tous les jours.
     </p>
     <p>
-      Un personnel des services techniques de la mairie présent sur place annonce pouvoir nous fournir un arrêté municipal pour ces travaux, qui ne concernent d'après lui pas que la place, mais donc la place quand-même. Par conséquent, nous occupons.
-    </p>
-    <hr>
-    <p>
-      Si vous souhaitez nous soutenir, vous pouvez :
-      <ul>
-        <li>Signer la pétition : <a href="https://www.mesopinions.com/petition/nature-environnement/projet-parking-souterrain-place-kiosque-sete/161546">https://www.mesopinions.com/petition/nature-environnement/projet-parking-souterrain-place-kiosque-sete/161546</a></li>
-        <li>Donner à au collectif : <a href="https://www.helloasso.com/associations/association-bancs-publics/formulaires/1">https://www.helloasso.com/associations/association-bancs-publics/formulaires/1</a></li>
-        <li>Adhérer au collectif et rejoindre notre lutte : <a href="/nous-soutenir/#adherer">Comment adhérer ?</a></li>
-      </ul>
+      C'est le résultat de notre mobilisation, mais que ce n'est pas fini.
     </p>
     <p>
-      N'hésitez pas également à consulter les <a href="/ressources">ressources mises à disposition</a> sur le site.
+      En effet, le danger reste très présent. La Mairie veut absolument réaliser ce projet aberrant. Elle cherche aujourd'hui des moyens de droit pour essayer d'échapper au droit et c'est objectivement difficile pour elle.  De fait, elle est obligée de modifier sa stratégie. Peut-être en évitant de respecter l'obligation du Permis de Démolir ? Peut-être en modifiant le Permis de Construire en cours d'instruction en y incluant la construction de la nouvelle place ? À tout moment, une "autorisation d'urbanisme" peut sortir.
+    </p>
+    <p>
+      Notre vigilance doit rester intacte.
+    </p>
+    <p>
+      Il faut saluer tous ceux, toutes celles, qui tous les jours assurent cette veille sur la place. Regardons tous les jours si un quelconque document administratif est affiché sur la place. Quel que soit ce document, il sera inévitablement contraire au droit et devra être attaqué.
+    </p>
+    <p>
+      Les travaux de démontage de la place qui devaient démarrer le 10 janvier dernier sont suspendus. C'est le résultat de notre mobilisation impressionnante et de notre action en justice.
     </p>
   </section>
 

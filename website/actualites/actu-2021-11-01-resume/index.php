@@ -5,7 +5,7 @@ require_once '../functions.php';
 ?>
 
 <div class="container my-5 article">
-  <h1 class="title is-2 mt-4"><?= $metadata['titre'] ?></h1>
+  <h1 class="title is-3 mt-4"><?= $metadata['titre'] ?></h1>
 
   <p class="date has-text-grey-light"><i class="fa fa-calendar-alt mr-2"></i><?= $metadata['date'] ?></p>
 
@@ -44,7 +44,7 @@ require_once '../functions.php';
       <ul>
         <li>Signer la pétition : <a href="https://www.mesopinions.com/petition/nature-environnement/projet-parking-souterrain-place-kiosque-sete/161546">https://www.mesopinions.com/petition/nature-environnement/projet-parking-souterrain-place-kiosque-sete/161546</a></li>
         <li>Donner à au collectif : <a href="https://www.helloasso.com/associations/association-bancs-publics/formulaires/1">https://www.helloasso.com/associations/association-bancs-publics/formulaires/1</a></li>
-        <li>Adhérer au collectif et rejoindre notre lutte : <a href="/adherer/">Comment adhérer ?</a></li>
+        <li>Adhérer au collectif et rejoindre notre lutte : <a href="/nous-soutenir/#adherer">Comment adhérer ?</a></li>
       </ul>
     </p>
     <p>
