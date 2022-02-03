@@ -24,13 +24,13 @@ require_once './actualites/functions.php';
       C’est un rassemblement citoyen et apolitique qui œuvre pour le bien de tous les Sétois et Sétoises, qu'ils ou elles le soient depuis plusieurs générations ou quelques années seulement. Car c'est ensemble, et uniquement ensemble, que nous atteindrons notre objectif.
     </p>
     <p>
-      Le collectif Bancs Publics, c’est à ce jour plus de 1500 membres, plus de 7 500 signataires de la pétition, tous amoureux de Sète et de toutes les générations.
+      Le collectif Bancs Publics, c’est à ce jour plus de 1500 1800 membres, et près de 8000 signataires !
     </p>
     <p>
-      Depuis le mois de novembre 2021, le collectif Bancs Publics se mobilise et s’oppose à cette folie destructrice par des actions, des mobilisations, des recherches de soutiens, des actions en justice. Celles-ci a pour l’instant permis de repousser le démarrage des travaux prévus début janvier.
+      Depuis le mois de novembre 2021, le collectif Bancs Publics se mobilise et s’oppose à cette folie destructrice par des actions, des mobilisations, des recherches de soutiens, des actions en justice. Celles-ci ont pour l’instant permis de repousser le démarrage des travaux prévus début janvier.
     </p>
     <p>
-      La lutte continue et nous ne lâcheront rien. <a href="/nous-soutenir">Rejoignez-nous !</a>
+      La lutte continue et nous ne lâcherons rien. <a href="/nous-soutenir">Rejoignez-nous !</a>
     </p>
   </div>
 </section>
@@ -97,7 +97,7 @@ require_once './actualites/functions.php';
 <section class="hero is-success py-5 is-block">
   <div class="container hero-body">
     <h2 class="title is-1">
-      Rendez vous tous les samedis à 11h sous le kiosque
+      Rendez-vous tous les samedis à 11h sous le kiosque
     </h1>
   </div>
 </section>
