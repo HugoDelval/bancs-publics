@@ -12,10 +12,10 @@
       <h2>Pour en savoir plus</h2>
       <ul>
         <li>
-          <a href="/static/pdf/Dossier_Communication_BancsPublics_28012022.pdf"><i class="fa fa-file-pdf pr-2"></i>Dossier de communication</a>
+          <a href="/static/pdf/COM BancsPublics 260122.pdf"><i class="fa fa-file-pdf pr-2"></i>Dossier de communication</a>
         </li>
         <li>
-          <a href="/static/pdf/Revue de presse BancsPublics14012022.pdf" title="Revue de presse"><i class="fa fa-file-pdf pr-2"></i>Revue de presse</a>
+          <a href="/static/pdf/Revue presse Collectifs bancs publics.pdf" title="Revue de presse"><i class="fa fa-file-pdf pr-2"></i>Revue de presse</a>
         </li>
         <li>
           <a href="/static/pdf/Communiqué de presse.pdf"><i class="fa fa-file-pdf pr-2"></i>Communiqué de presse</a>
